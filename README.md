@@ -19,6 +19,8 @@ npm run deploy
 
 # Or if there's a local development setup:
 npm start
-<img width="1919" height="1051" alt="Screenshot 2025-08-20 223502" src="https://github.com/user-attachments/assets/4b021d79-4afd-4abd-9a91-6a7f9244eaf8" />
-<img width="1431" height="676" alt="Screenshot 2025-08-20 223623" src="https://github.com/user-attachments/assets/18c4b2f2-b234-4222-a483-a18712605727" />
-<img width="1919" height="1079" alt="Screenshot 2025-08-20 223612" src="https://github.com/user-attachments/assets/5e2d5f87-1b60-436f-961a-68a584b435d2" />
+<img width="1919" height="830" alt="Screenshot 2025-08-20 223502" src="https://github.com/user-attachments/assets/bd33e745-a5cd-4f92-9b0d-50ccb9849662" />
+<img width="1431" height="509" alt="Screenshot 2025-08-20 223623" src="https://github.com/user-attachments/assets/efd01887-74ff-41c1-9809-c140f346a586" />
+<img width="1919" height="802" alt="Screenshot 2025-08-20 223612" src="https://github.com/user-attachments/assets/de10ab34-1198-45c8-96e9-6285e32ab1b2" />
+
+
