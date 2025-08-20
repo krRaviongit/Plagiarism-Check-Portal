@@ -81,7 +81,7 @@ export default function App() {
           />
         </Routes>
       </AnimatePresence>
-      <footer className="text-center text-white/50 text-sm py-6">Made with ❤️ using React, TailwindCSS and Framer Motion</footer>
+      <footer className="text-center text-white/50 text-sm py-6">Made with ❤️ by Kumar Ravi and Abinash Giri</footer>
     </div>
   );
 }
