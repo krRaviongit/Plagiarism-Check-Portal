@@ -1,5 +1,6 @@
 import { Link, NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import Logo from './Logo';
 
 export default function Header() {
   return (
@@ -8,14 +9,7 @@ export default function Header() {
         <div className="mt-4 mb-6 glass rounded-2xl">
           <div className="flex items-center justify-between px-4 sm:px-6 py-4">
             <Link to="/" className="flex items-center gap-3">
-              <motion.div
-                initial={{ rotate: -6 }}
-                animate={{ rotate: 0 }}
-                transition={{ type: 'spring', stiffness: 200, damping: 12 }}
-                className="h-9 w-9 rounded-xl bg-gradient-to-tr from-primary-600 to-accent-600 grid place-items-center shadow-lg"
-              >
-                <span className="font-extrabold">AI</span>
-              </motion.div>
+              <Logo />
               <div className="leading-tight">
                 <div className="font-poppins font-semibold tracking-wide">PlagiaShield</div>
                 <div className="text-xs text-white/60">Stay Original</div>
