@@ -38,8 +38,6 @@ It not only detects plagiarism but also provides **extra features** like citatio
 ---
 
 ## 📂 Project Structure
-
-```bash
 PlagiaShield/
 ├── frontend/                  # React + Vite app (student & teacher dashboards)
 │   ├── public/                # Static assets
@@ -61,6 +59,8 @@ PlagiaShield/
 ├── package.json               # Dependencies & scripts
 └── .gitignore                 # Ignored files
 ---
+
+
 
 ## ⚡**Demo**
 https://plagir.netlify.app/
