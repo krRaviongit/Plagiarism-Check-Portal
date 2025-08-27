@@ -70,19 +70,25 @@ https://plagir.netlify.app/
 ---
 
 ⚡ Installation & Setup
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
+```
 git clone https://github.com/your-username/plagiashield.git
 cd plagiashield
+```
 
-2️⃣ Setup Frontend
+### 2️⃣ Setup Frontend
+```
 cd frontend
 npm install
 npm run dev
+```
 
-3️⃣ Setup Backend
+### 3️⃣ Setup Backend
+```
 cd backend
 npm install
 npm start
+```
 
 
 ---
@@ -105,4 +111,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-<p align="center">Made with ❤️ by DoraHacks</p>
+<p align="center">Made with ❤️ by Kumar Ravi</p>
