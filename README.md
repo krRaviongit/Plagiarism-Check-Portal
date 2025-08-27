@@ -38,25 +38,28 @@ It not only detects plagiarism but also provides **extra features** like citatio
 ---
 
 ## 📂 Project Structure
+---
 PlagiaShield/
-├── frontend/ # React + Vite app
-│ ├── public/ # Static assets
-│ ├── src/ # Source code
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Student & Teacher dashboard pages
-│ │ ├── services/ # API calls to backend
-│ │ └── App.jsx # Main app entry
-│ └── vite.config.js # Vite configuration
+├── frontend/                  # React + Vite app (student & teacher dashboards)
+│   ├── public/                # Static assets
+│   ├── src/                   # Source code
+│   │   ├── components/        # Reusable UI components
+│   │   ├── pages/             # Student & Teacher dashboard pages
+│   │   ├── services/          # API calls to backend
+│   │   └── App.jsx            # Main app entry
+│   └── vite.config.js         # Vite configuration
 │
-├── backend/ # Node.js + Express API
-│ ├── models/ # MongoDB schemas (User, Submission, Report)
-│ ├── routes/ # API routes (auth, plagiarism-check, reports)
-│ ├── controllers/ # Logic for handling requests
-│ ├── utils/ # Helper functions (AI checks, rewriting)
-│ └── server.js # App entry point
+├── backend/                   # Node.js + Express API
+│   ├── models/                # MongoDB schemas (User, Submission, Report)
+│   ├── routes/                # API routes (auth, plagiarism-check, reports)
+│   ├── controllers/           # Logic for handling requests
+│   ├── utils/                 # Helper functions (AI checks, rewriting)
+│   └── server.js              # Backend entry point
 │
-├── README.md # Project documentation
-└── package.json # Dependencies & scripts
+├── README.md                  # Project documentation
+├── package.json               # Dependencies & scripts
+└── .gitignore                 # Ignored files
+---
 
 ---
 
