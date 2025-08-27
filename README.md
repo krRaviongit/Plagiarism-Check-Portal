@@ -30,31 +30,60 @@ It not only detects plagiarism but also provides **extra features** like citatio
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** Vite, React  
+- **Frontend:** Vite, React, TailwindCSS, Framer Motion  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **AI/ML:** NLP-based text similarity models
 
 ---
 
-## **Demo**
+## 📂 Project Structure
+PlagiaShield/
+├── frontend/ # React + Vite app
+│ ├── public/ # Static assets
+│ ├── src/ # Source code
+│ │ ├── components/ # Reusable UI components
+│ │ ├── pages/ # Student & Teacher dashboard pages
+│ │ ├── services/ # API calls to backend
+│ │ └── App.jsx # Main app entry
+│ └── vite.config.js # Vite configuration
+│
+├── backend/ # Node.js + Express API
+│ ├── models/ # MongoDB schemas (User, Submission, Report)
+│ ├── routes/ # API routes (auth, plagiarism-check, reports)
+│ ├── controllers/ # Logic for handling requests
+│ ├── utils/ # Helper functions (AI checks, rewriting)
+│ └── server.js # App entry point
+│
+├── README.md # Project documentation
+└── package.json # Dependencies & scripts
+
+---
+
+## ⚡**Demo**
 https://plagir.netlify.app/
 
 ---
 
-## **Installation**
+⚡ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/plagiashield.git
+cd plagiashield
+
+2️⃣ Setup Frontend
+cd frontend
 npm install
+npm run dev
 
-## For GitHub Pages / Netlify deploy:
-npm run build
-npm run deploy
-
-## Or if there's a local development setup:
+3️⃣ Setup Backend
+cd backend
+npm install
 npm start
+
 
 ---
 
-## 📷 Screenshots  
+## 📊 Sample Output 
 <img width="1919" height="830" alt="Screenshot 2025-08-20 223502" src="https://github.com/user-attachments/assets/bd33e745-a5cd-4f92-9b0d-50ccb9849662" />
 <img width="1431" height="509" alt="Screenshot 2025-08-20 223623" src="https://github.com/user-attachments/assets/efd01887-74ff-41c1-9809-c140f346a586" />
 <img width="1919" height="802" alt="Screenshot 2025-08-20 223612" src="https://github.com/user-attachments/assets/de10ab34-1198-45c8-96e9-6285e32ab1b2" />
