@@ -1,3 +1,6 @@
+![Banner](https://github.com/user-attachments/assets/026eba1e-4832-44d5-89be-87a5f1ca0536)
+
+
 AI-Powered Plagiarism Checker
 1. **Problem Statement**
 Academic integrity and original content creation are vital in education, research, and content creation. However, plagiarism—whether intentional or accidental—poses ethical and legal challenges. Traditional plagiarism tools are often costly, inaccessible, or functionally limited. Plagir aims to offer a lightweight, open-source, accessible solution that helps users detect and address plagiarism quickly and effectively.
