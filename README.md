@@ -1,5 +1,17 @@
 ![Banner](https://github.com/user-attachments/assets/026eba1e-4832-44d5-89be-87a5f1ca0536)
 
+ <h1 align="center">🛡️PlagiaShield</h1>
+  
+> *AI-powered Plagiarism Checker & Writing Assistant*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/your-username/NeuroRest?style=social" />
+</p>
+
+---
+
 ## 🚀 Overview  
 PlagiaShield is an AI-powered plagiarism detection tool designed to help students, teachers, and professionals ensure originality in their content.  
 It not only detects plagiarism but also provides **extra features** like citation generation and AI-based text similarity checking.  
@@ -50,16 +62,14 @@ npm start
 ---
 
 ## 👨‍💻 Team DoraHacks  
-- Kumar Ravi  
-- Abinash Partha Sarathi Giri  
+* **Kumar Ravi** – [GitHub](https://github.com/krRaviongit)
+* **Abinash Giri** – [GitHub](https://github.com/ABIN2005)
 
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
 <p align="center">Made with ❤️ by DoraHacks</p>
-
-
