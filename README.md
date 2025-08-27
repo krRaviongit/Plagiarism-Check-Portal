@@ -9,14 +9,16 @@ It not only detects plagiarism but also provides **extra features** like citatio
 ## ✨ Features  
 - 🔍 **Plagiarism Detection** – Detects copied content with detailed similarity reports.  
 - 📑 **Citation Generator** – Automatically generate proper citations for your work.  
-- 📊 **Similarity Score** – Provides percentage of similarity with detailed breakdown.  
+- 📊 **Similarity Score** – Provides percentage of similarity with detailed breakdown.
+- ✍️ **AI Rewriting Suggestions** – Get smart rewrite options to improve writing style.  
+- 🎓 **Student Dashboard** – Personalized space to upload, track, and manage submissions.   
 - 🧑‍🏫 **Teacher Dashboard** – Helps educators check multiple student submissions at once.  
 - 🌐 **User-Friendly Web App** – Simple and intuitive interface for easy use.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** Vite, React  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **AI/ML:** NLP-based text similarity models
